@@ -15,7 +15,7 @@ class Chart extends Component
         public $darkMode,
         public $deferLoading,
         public $readyToLoad,
-        public $extraJsOptions
+        public string $extraJsOptions
     ) {}
 
     /**
